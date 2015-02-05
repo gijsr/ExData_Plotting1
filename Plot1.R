@@ -1,4 +1,4 @@
-# Plot 1.R
+# plot 1.R
 
 # Part 1 Download, unzip, read, subset and convert data
 fileUrl<-"https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"  #URL of data source
